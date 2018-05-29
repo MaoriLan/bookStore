@@ -7,6 +7,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
   <head>
+	  aaaaa
     <base href="<%=basePath%>">
     
     <title>My JSP 'index.jsp' starting page</title>
@@ -92,5 +93,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			<!--7.广告图片-->
 			<jsp:include page="bottom.jsp" flush="true"/>
 		</table>
+	  <table></table>
   </body>
 </html>
