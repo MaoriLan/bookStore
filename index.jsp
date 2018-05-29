@@ -63,7 +63,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					</table>
 				</td>
 			</tr>
-			<!--6.热门商品-->
+			<!--6.热门商品tyuytuih8o-->
 			<tr>
 				<td>
 				<table width="1100px" cellspacing="0" cellpadding="0">
